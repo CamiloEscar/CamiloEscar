@@ -17,7 +17,7 @@ Estudiante, cursando el último año de la Licenciatura en Sistemas de Informaci
 <meta property="og:image" content="./assets/profile.webp" />
 <meta property="og:url" content="https://github.com/CamiloEscar" />
 
-<img align="right" alt="gif" src="./assets/profile.webp" width="240px" />
+<!--<img align="right" alt="gif" src="./assets/profile.webp" width="240px" /> -->
 
 <br/>
 
