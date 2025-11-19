@@ -8,9 +8,6 @@ Estudiante, cursando el último año de la Licenciatura en Sistemas de Informaci
 <a href="https://www.linkedin.com/in/camiloescar"> 
 <img align="left" alt="Camilo Escar LinkedIn" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=517fa4" /> 
 </a> 
-<a href="https://github.com/CamiloEscar"> 
-<img align="left" alt="GitHub" width="22px" src="https://icongr.am/octicons/mark-github.svg?size=128&color=517fa4" /> 
-</a> 
 <a href="mailto:camiloescar1995@gmail.com"> 
 <img align="left" alt="Email" width="22px" src="https://icongr.am/material/email.svg?size=128&color=517fa4" /> 
 </a> 
