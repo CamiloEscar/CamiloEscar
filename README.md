@@ -12,6 +12,10 @@ Estudiante, cursando el último año de la Licenciatura en Sistemas de Informaci
 <img align="left" alt="Email" width="22px" src="https://icongr.am/material/email.svg?size=128&color=517fa4" /> 
 </a> 
 <br/> 
+<meta property="og:title" content="Camilo Escar" />
+<meta property="og:description" content="Desarrollador Web" />
+<meta property="og:image" content="./assets/profile.webp" />
+<meta property="og:url" content="https://github.com/CamiloEscar" />
 
 <img align="right" alt="gif" src="./assets/profile.webp" width="240px" />
 
