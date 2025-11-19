@@ -12,9 +12,9 @@ Estudiante, cursando el último año de la Licenciatura en Sistemas de Informaci
 <img align="left" alt="Email" width="22px" src="https://icongr.am/material/email.svg?size=128&color=517fa4" /> 
 </a> 
 <br/> 
-<!--<br/> 
-<img align="right" alt="banner" src="https://raw.githubusercontent.com/CamiloEscar/CamiloEscar/main/banner.png" width="240px" /> 
-<br/>-->
+
+![Camilo Escar Banner](https://raw.githubusercontent.com/CamiloEscar/CamiloEscar/main/assets/profile.webp)
+
 <br/>
 
 ## Qué estoy haciendo actualmente
