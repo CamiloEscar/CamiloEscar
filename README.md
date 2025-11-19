@@ -13,7 +13,7 @@ Estudiante, cursando el último año de la Licenciatura en Sistemas de Informaci
 </a> 
 <br/> 
 
-![Camilo Escar Banner](https://raw.githubusercontent.com/CamiloEscar/CamiloEscar/main/assets/profile.webp)
+<img src="https://raw.githubusercontent.com/CamiloEscar/CamiloEscar/main/assets/profile.webp" width="300" />
 
 <br/>
 
