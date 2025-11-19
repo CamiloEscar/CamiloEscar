@@ -2,6 +2,9 @@
 Estudiante, cursando el último año de la Licenciatura en Sistemas de Información y trabajo como técnico de redes en Video Digital SRL.
 <br/>
 
+<a href="https://docs.google.com/document/d/1CvRZx0hI_KiiFPk9ok56dn2o5snL49w4cCidnHRFnXs/edit?tab=t.0">
+  <img align="left" alt="CV" width="22px" src="https://icongr.am/fontawesome/briefcase.svg?size=128&color=517fa4" />
+</a>
 <a href="https://www.instagram.com/camilo.escar/">
 <img align="left" alt="camilo escar Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=517fa4" />
 </a>
