@@ -18,7 +18,26 @@ Estudiante, cursando el último año de la Licenciatura en Sistemas de Informaci
 
 <img align="right" alt="Camilo Escar Banner" src="https://raw.githubusercontent.com/CamiloEscar/CamiloEscar/main/assets/profile.jpg" width="240px" />
 <!--<img align="right" alt="gif" src="./assets/profile.webp" width="240px" /> -->
+<!-- HTML Meta Tags -->
+<title>CamiloEscar</title>
+<meta name="description" content="CamiloEscar has 58 repositories available. Follow their code on GitHub.">
 
+<!-- Facebook Meta Tags -->
+<meta property="og:url" content="https://github.com/CamiloEscar">
+<meta property="og:type" content="website">
+<meta property="og:title" content="CamiloEscar">
+<meta property="og:description" content="CamiloEscar has 58 repositories available. Follow their code on GitHub.">
+<meta property="og:image" content="https://avatars.githubusercontent.com/u/94748462?v=4?s=400">
+
+<!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:domain" content="github.com">
+<meta property="twitter:url" content="https://github.com/CamiloEscar">
+<meta name="twitter:title" content="CamiloEscar">
+<meta name="twitter:description" content="CamiloEscar has 58 repositories available. Follow their code on GitHub.">
+<meta name="twitter:image" content="https://avatars.githubusercontent.com/u/94748462?v=4?s=400">
+
+<!-- Meta Tags Generated via https://www.opengraph.xyz -->
 <br/>
 
 ## Qué estoy haciendo actualmente
