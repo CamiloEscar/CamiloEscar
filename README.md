@@ -19,7 +19,7 @@ Estudiante, cursando el último año de la Licenciatura en Sistemas de Informaci
 <img align="right" alt="Camilo Escar Banner" src="https://raw.githubusercontent.com/CamiloEscar/CamiloEscar/main/assets/profile.jpg" width="240px" />
 <!--<img align="right" alt="gif" src="./assets/profile.webp" width="240px" /> -->
 <!-- HTML Meta Tags -->
-<title>CamiloEscar</title>
+
 <meta name="description" content="CamiloEscar has 58 repositories available. Follow their code on GitHub.">
 
 <!-- Facebook Meta Tags -->
