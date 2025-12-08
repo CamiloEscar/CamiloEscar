@@ -40,13 +40,7 @@ Estudiante, cursando el último año de la Licenciatura en Sistemas de Informaci
 <!-- Meta Tags Generated via https://www.opengraph.xyz -->
 <br/>
 
-## Qué estoy haciendo actualmente
 
-- 🚀 Desarrollando proyectos con React, Node.js y Laravel.
-- 📘 Estudiando Licenciatura en Sistemas de Información.
-- 🧪 Practicando algoritmos, estructuras de datos y patrones de diseño.
-- 🤖 Experimentando con IA, bots y automatizaciones.
-<br/>
 
 ## Lenguajes y Herramientas
 ### Frontend
@@ -67,6 +61,14 @@ Estudiante, cursando el último año de la Licenciatura en Sistemas de Informaci
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<br/>
+
+## Qué estoy haciendo actualmente
+
+- Desarrollando proyectos.
+- Estudiante en Licenciatura en Sistemas de Información.
+- Practicando algoritmos, estructuras de datos y patrones de diseño.
+- Experimentando con IA, bots y automatizaciones.
 <br/>
 
 ## Estoy abierto a:
