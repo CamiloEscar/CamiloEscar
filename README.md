@@ -53,7 +53,7 @@ Estudiante, cursando el último año de la Licenciatura en Sistemas de Informaci
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png"></code>
--->
+
 ## Qué estoy haciendo actualmente
 
 - Desarrollando proyectos.
@@ -68,3 +68,4 @@ Estudiante, cursando el último año de la Licenciatura en Sistemas de Informaci
 - Desarrollo frontend y full stack
 - Integraciones, automatizaciones y APIs
 - Construcción de dashboards y visualizaciones
+-->
