@@ -1,5 +1,5 @@
-## Hola, soy [Camilo! 😁](https://camiloescar.vercel.app) 
-Estudiante, cursando el último año de la Licenciatura en Sistemas de Información y trabajo como técnico de redes en Video Digital SRL.
+## Hola👋, soy [Camilo Escar](https://camiloescar.vercel.app)!
+Estudiante, cursando el último año de la Licenciatura en Sistemas de Información y técnico de redes en Video Digital SRL.
 <br/>
 
 <a href="https://docs.google.com/document/d/1CvRZx0hI_KiiFPk9ok56dn2o5snL49w4cCidnHRFnXs/edit?tab=t.0">
@@ -16,37 +16,20 @@ Estudiante, cursando el último año de la Licenciatura en Sistemas de Informaci
 </a> 
 <br/> 
 
+
 <img align="right" alt="Camilo Escar Banner" src="https://raw.githubusercontent.com/CamiloEscar/CamiloEscar/main/assets/profile.jpg" width="240px" />
 <!--<img align="right" alt="gif" src="./assets/profile.webp" width="240px" /> -->
-<!-- HTML Meta Tags -->
-
-<meta name="description" content="CamiloEscar has 58 repositories available. Follow their code on GitHub.">
-
-<!-- Facebook Meta Tags -->
-<meta property="og:url" content="https://github.com/CamiloEscar">
-<meta property="og:type" content="website">
-<meta property="og:title" content="CamiloEscar">
-<meta property="og:description" content="CamiloEscar has 58 repositories available. Follow their code on GitHub.">
-<meta property="og:image" content="https://avatars.githubusercontent.com/u/94748462?v=4?s=400">
-
-<!-- Twitter Meta Tags -->
-<meta name="twitter:card" content="summary_large_image">
-<meta property="twitter:domain" content="github.com">
-<meta property="twitter:url" content="https://github.com/CamiloEscar">
-<meta name="twitter:title" content="CamiloEscar">
-<meta name="twitter:description" content="CamiloEscar has 58 repositories available. Follow their code on GitHub.">
-<meta name="twitter:image" content="https://avatars.githubusercontent.com/u/94748462?v=4?s=400">
-
-<!-- Meta Tags Generated via https://www.opengraph.xyz -->
 <br/>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CamiloEscar&show=prs_merged,commits_year&theme=tokyonight&hide=stars)
 
 
 ## Lenguajes y Herramientas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloEscar&layout=compact&theme=tokyonight&hide=html,css)
+
+
 ### Frontend
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
@@ -63,6 +46,14 @@ Estudiante, cursando el último año de la Licenciatura en Sistemas de Informaci
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <br/>
 
+<!--
+### Infraestructura y herramientas
+
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png"></code>
+-->
 ## Qué estoy haciendo actualmente
 
 - Desarrollando proyectos.
