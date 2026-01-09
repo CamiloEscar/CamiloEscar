@@ -21,11 +21,11 @@ Estudiante, cursando el último año de la Licenciatura en Sistemas de Informaci
 <!--<img align="right" alt="gif" src="./assets/profile.webp" width="240px" /> -->
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CamiloEscar&show=prs_merged,commits_year&theme=tokyonight&hide=stars)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CamiloEscar&show=prs_merged,commits_year&theme=tokyonight&hide=stars)
 
 
 ## Lenguajes y Herramientas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloEscar&layout=compact&theme=tokyonight&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloEscar&layout=compact&theme=tokyonight&hide=html,css)-->
 
 
 ### Frontend
