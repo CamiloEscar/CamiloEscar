@@ -1,6 +1,6 @@
 ## 👋 Hola, soy Camilo Escar
 
-Desarrollador **Frontend / Full Stack** con foco en **React, Angular y consumo de APIs**, estudiante avanzado de la Licenciatura en Sistemas de Información y técnico en redes.
+Desarrollador **Full Stack** con foco en **React y Node**, estudiante avanzado de la Licenciatura en Sistemas de Información y técnico en redes.
 
 Me especializo en construir **interfaces claras**, **backends bien estructurados** y **aplicaciones mantenibles**, trabajando con arquitecturas limpias y buenas prácticas.
 
