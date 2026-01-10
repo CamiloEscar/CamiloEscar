@@ -1,71 +1,70 @@
-## Hola👋, soy [Camilo Escar](https://camiloescar.vercel.app)!
-Estudiante, cursando el último año de la Licenciatura en Sistemas de Información y técnico de redes en Video Digital SRL.
-<br/>
+## 👋 Hola, soy Camilo Escar
 
-<a href="https://docs.google.com/document/d/1CvRZx0hI_KiiFPk9ok56dn2o5snL49w4cCidnHRFnXs/edit?tab=t.0">
+Desarrollador **Frontend / Full Stack** con foco en **React, Angular y consumo de APIs**, estudiante avanzado de la Licenciatura en Sistemas de Información y técnico en redes.
+
+Me especializo en construir **interfaces claras**, **backends bien estructurados** y **aplicaciones mantenibles**, trabajando con arquitecturas limpias y buenas prácticas.
+
+---
+
+### 🔗 Contacto
+<a href="https://docs.google.com/document/d/1CvRZx0hI_KiiFPk9ok56dn2o5snL49w4cCidnHRFnXs/edit">
   <img align="left" alt="CV" width="22px" src="https://icongr.am/fontawesome/briefcase.svg?size=128&color=517fa4" />
 </a>
-<a href="https://www.instagram.com/camilo.escar/">
-<img align="left" alt="camilo escar Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=517fa4" />
+<a href="https://www.linkedin.com/in/camiloescar">
+  <img align="left" alt="LinkedIn" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=517fa4" />
 </a>
-<a href="https://www.linkedin.com/in/camiloescar"> 
-<img align="left" alt="Camilo Escar LinkedIn" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=517fa4" /> 
-</a> 
-<a href="mailto:camiloescar1995@gmail.com"> 
-<img align="left" alt="Email" width="22px" src="https://icongr.am/material/email.svg?size=128&color=517fa4" /> 
-</a> 
-<br/> 
+<a href="mailto:camiloescar1995@gmail.com">
+  <img align="left" alt="Email" width="22px" src="https://icongr.am/material/email.svg?size=128&color=517fa4" />
+</a>
 
+<br/><br/>
 
-<img align="right" alt="Camilo Escar Banner" src="https://raw.githubusercontent.com/CamiloEscar/CamiloEscar/main/assets/profile.jpg" width="240px" />
-<!--<img align="right" alt="gif" src="./assets/profile.webp" width="240px" /> -->
+<img align="right" src="https://raw.githubusercontent.com/CamiloEscar/CamiloEscar/main/assets/profile.jpg" width="230px" />
+
+---
+
+### Qué hago bien
+
+- Desarrollo **frontends modernos** con React y Angular
+- Consumo e integración de **APIs REST**
+- Backend con **Node.js y Laravel**
+- Autenticación, paginación, filtros, lógica de negocio
+- Código limpio, separación de responsabilidades y buenas prácticas
+
+---
+
+### Tecnologías principales
+
+**Frontend**
 <br/>
-
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CamiloEscar&show=prs_merged,commits_year&theme=tokyonight&hide=stars)
-
-
-## Lenguajes y Herramientas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloEscar&layout=compact&theme=tokyonight&hide=html,css)-->
-
-
-### Frontend
-
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png"></code>
+
+**Backend**
 <br/>
-
-### Backend
-
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<br/>
 
-<!--
-### Infraestructura y herramientas
+---
 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png"></code>
+### En qué estoy trabajando
 
-## Qué estoy haciendo actualmente
+- Proyectos frontend y full stack
+- APIs y sistemas con autenticación
+- Preparación para entrevistas técnicas (React, JS, arquitectura)
+- Mejora continua de código y diseño de sistemas
 
-- Desarrollando proyectos.
-- Estudiante en Licenciatura en Sistemas de Información.
-- Practicando algoritmos, estructuras de datos y patrones de diseño.
-- Experimentando con IA, bots y automatizaciones.
-<br/>
+---
 
-## Estoy abierto a:
+### Abierto a
 
+- Oportunidades laborales
 - Proyectos freelance
-- Desarrollo frontend y full stack
-- Integraciones, automatizaciones y APIs
-- Construcción de dashboards y visualizaciones
--->
+- Desarrollo frontend / full stack
+- Integraciones y APIs
