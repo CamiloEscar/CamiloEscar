@@ -40,3 +40,11 @@ Desarrollador **Full Stack** con foco en **React y Node**, estudiante avanzado d
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 
 ---
+
+### Abierto a
+
+- Oportunidades laborales
+- Proyectos freelance
+- Desarrollo frontend y full stack
+- Integraciones, automatizaciones y APIs
+- Construcción de dashboards y visualizaciones
