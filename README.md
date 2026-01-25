@@ -2,8 +2,6 @@
 
 Desarrollador **Full Stack** con foco en **React y Node**, estudiante avanzado de la Licenciatura en Sistemas de Información y técnico en redes.
 
-Me especializo en construir **interfaces claras**, **backends bien estructurados** y **aplicaciones mantenibles**, trabajando con arquitecturas limpias y buenas prácticas.
-
 ---
 
 ### 🔗 Contacto
@@ -23,17 +21,7 @@ Me especializo en construir **interfaces claras**, **backends bien estructurados
 
 ---
 
-### Qué hago bien
-
-- Desarrollo **frontends modernos** con React y Angular
-- Consumo e integración de **APIs REST**
-- Backend con **Node.js y Laravel**
-- Autenticación, paginación, filtros, lógica de negocio
-- Código limpio, separación de responsabilidades y buenas prácticas
-
----
-
-### Tecnologías principales
+### Tecnologías
 
 **Frontend**
 <br/>
@@ -52,19 +40,3 @@ Me especializo en construir **interfaces claras**, **backends bien estructurados
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 
 ---
-
-### En qué estoy trabajando
-
-- Proyectos frontend y full stack
-- APIs y sistemas con autenticación
-- Preparación para entrevistas técnicas (React, JS, arquitectura)
-- Mejora continua de código y diseño de sistemas
-
----
-
-### Abierto a
-
-- Oportunidades laborales
-- Proyectos freelance
-- Desarrollo frontend / full stack
-- Integraciones y APIs
