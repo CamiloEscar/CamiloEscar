@@ -14,6 +14,7 @@ Desarrollador **Full Stack** con foco en **React y Node**, estudiante avanzado d
 <a href="mailto:camiloescar1995@gmail.com">
   <img align="left" alt="Email" width="22px" src="https://icongr.am/material/email.svg?size=128&color=517fa4" />
 </a>
+<br/>
 
 ---
 
