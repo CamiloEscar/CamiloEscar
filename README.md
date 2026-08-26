@@ -15,10 +15,6 @@ Desarrollador **Full Stack** con foco en **React y Node**, estudiante avanzado d
   <img align="left" alt="Email" width="22px" src="https://icongr.am/material/email.svg?size=128&color=517fa4" />
 </a>
 
-<br/><br/>
-
-<img align="right" src="https://raw.githubusercontent.com/CamiloEscar/CamiloEscar/main/assets/profile.jpg" width="230px" />
-
 ---
 
 ### Tecnologías
@@ -39,12 +35,3 @@ Desarrollador **Full Stack** con foco en **React y Node**, estudiante avanzado d
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 
----
-
-### Abierto a
-
-- Oportunidades laborales
-- Proyectos freelance
-- Desarrollo frontend y full stack
-- Integraciones, automatizaciones y APIs
-- Construcción de dashboards y visualizaciones
